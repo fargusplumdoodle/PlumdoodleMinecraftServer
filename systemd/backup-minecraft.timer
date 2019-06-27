@@ -3,6 +3,8 @@ Description=Daily Minecraft Server backup
 
 [Timer]
 OnCalenday=daily
+ExecStart=/root/PlumdoodleMCServer/systemd/backup-minecraft.sh
+WorkingDirectory=/root/PlumdoodleMCServer
 
 [Install]
 WantedBy=timers.target

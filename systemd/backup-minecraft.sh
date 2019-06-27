@@ -2,8 +2,8 @@
 
 # this is for backing up a git repository on a daily basis
 
-GIT_DIR=/root/InfinitySecurityMCServer
-NAME=InfinitySecurityMCServer
+GIT_DIR=/root/PlumdoodleMCServer/
+NAME=PlumdoodleMCServer
 
 # changing directory to git directory
 cd $GIT_DIR
