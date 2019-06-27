@@ -1,0 +1,15 @@
+# seed
+6546194431633768665
+
+
+# important things
+(-164, 64, -629) (-164, 64, -610)
+(129, 56, -142) (153, 55, -138) - Really close to 0, 0
+(-88, 76, 412) (-99, 70, 427)
+(-49, 76, 587) (-49, 76, 594) - Spawners as close as possible to each other
+(-962, 63, -472) (-990, 63. -463)
+(891, 83, -409) (904, 83, -396)
+
+
+# URL
+http://mineatlas.com/?levelName=6546194431633768665&seed=6546194431633768665&mapCentreX=2044&mapCentreY=0&mapZoom=14&pos=&Player=true&Spawn=true&Likely+Villages=true&Ocean+Monuments=true&Jungle+Temples=true&Desert+Temples=true&Witch+Huts=true&Slime+Chunks=true

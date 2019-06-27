@@ -1,0 +1,48 @@
+[17:59:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:59:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:59:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:59:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:59:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:59:12] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[17:59:12] [Server thread/INFO]: Loading properties
+[17:59:12] [Server thread/INFO]: Default game type: SURVIVAL
+[17:59:12] [Server thread/INFO]: Generating keypair
+[17:59:12] [Server thread/INFO]: Starting Minecraft server on 10.0.0.50:25565
+[17:59:12] [Server thread/INFO]: Using epoll channel type
+[17:59:12] [Server thread/INFO]: Preparing level "ISServer"
+[17:59:12] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:59:13] [Server thread/INFO]: Loaded 6 recipes
+[17:59:14] [Server thread/INFO]: Loaded 811 advancements
+[17:59:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:59:18] [Server thread/INFO]: Preparing spawn area: 0%
+[17:59:18] [Server thread/INFO]: Preparing spawn area: 0%
+[17:59:18] [Server thread/INFO]: Preparing spawn area: 0%
+[17:59:18] [Server thread/INFO]: Preparing spawn area: 0%
+[17:59:18] [Server thread/INFO]: Preparing spawn area: 0%
+[17:59:18] [Server thread/INFO]: Preparing spawn area: 0%
+[17:59:18] [Server thread/INFO]: Preparing spawn area: 0%
+[17:59:18] [Server thread/INFO]: Preparing spawn area: 0%
+[17:59:18] [Server thread/INFO]: Preparing spawn area: 0%
+[17:59:22] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[17:59:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:59:22] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[17:59:22] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[17:59:22] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[17:59:22] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[17:59:22] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[17:59:22] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[17:59:23] [Server thread/INFO]: Preparing spawn area: 83%
+[17:59:23] [Server thread/INFO]: Time elapsed: 8590 ms
+[17:59:23] [Server thread/INFO]: Done (10.659s)! For help, type "help"
+[18:00:03] [User Authenticator #1/INFO]: UUID of player zorofam is 946daeff-e8e0-4bcb-8f05-dc9ca89ddea7
+[18:00:04] [Server thread/INFO]: zorofam[/70.66.71.25:4844] logged in with entity id 31 at (-1129.5163972789455, 78.0, 184.09593832384658)
+[18:00:04] [Server thread/INFO]: zorofam joined the game
+[18:04:04] [Server thread/INFO]: zorofam lost connection: Disconnected
+[18:04:04] [Server thread/INFO]: zorofam left the game
+[18:04:06] [User Authenticator #2/INFO]: UUID of player zorofam is 946daeff-e8e0-4bcb-8f05-dc9ca89ddea7
+[18:04:06] [Server thread/INFO]: zorofam[/70.66.71.25:4846] logged in with entity id 1766 at (-688.4876308940742, 63.10075730928782, 209.73647185658479)
+[18:04:06] [Server thread/INFO]: zorofam joined the game
+[18:04:25] [Server thread/WARN]: zorofam moved too quickly! 6.163849296445051,-1.0,8.000922066142778
+[18:04:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[18:09:28] [Server thread/WARN]: zorofam moved too quickly! 9.867587176026099,2.0,-1.3989044709933864
+[18:09:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3121ms or 62 ticks behind

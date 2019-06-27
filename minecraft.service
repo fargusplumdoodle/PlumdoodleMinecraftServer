@@ -1,0 +1,16 @@
+[Unit]
+Description=Minecraft ICS SurvivalCraft Server
+After=network.target
+
+[Service]
+Restart=always
+StartLimitIntervalSec=10
+StartLimitBurst=2
+ExecStart=/root/InfinitySecurityMCServer/startServer.sh
+WorkingDirectory=/root/InfinitySecurityMCServer
+Type=simple
+StandardError=syslog
+NotifyAccess=all
+
+[Install]
+WantedBy=multi-user.target
