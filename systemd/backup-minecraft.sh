@@ -12,7 +12,7 @@ cd $GIT_DIR
 git add -A
 
 # date based commit message
-git commit -m "$NAME-`date`"
+git commit -m "AUTO-COMMIT--$NAME-`date`"
 
 # pushing to origin 
 git push -u origin master
