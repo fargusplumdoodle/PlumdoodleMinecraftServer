@@ -1,0 +1,7 @@
+[Unit]
+Description=Daily Minecraft Server backup
+
+[Service]
+Type=oneshot
+ExecStart=/root/PlumdoodleMCServer/systemd/backup-minecraft.sh
+WorkingDirectory=/root/PlumdoodleMCServer
