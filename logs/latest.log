@@ -1,48 +1,177 @@
-[17:59:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:59:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:59:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:59:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:59:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:59:12] [Server thread/INFO]: Starting minecraft server version 1.14.3
-[17:59:12] [Server thread/INFO]: Loading properties
-[17:59:12] [Server thread/INFO]: Default game type: SURVIVAL
-[17:59:12] [Server thread/INFO]: Generating keypair
-[17:59:12] [Server thread/INFO]: Starting Minecraft server on 10.0.0.50:25565
-[17:59:12] [Server thread/INFO]: Using epoll channel type
-[17:59:12] [Server thread/INFO]: Preparing level "ISServer"
-[17:59:12] [Server thread/INFO]: Reloading ResourceManager: Default
-[17:59:13] [Server thread/INFO]: Loaded 6 recipes
-[17:59:14] [Server thread/INFO]: Loaded 811 advancements
-[17:59:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:59:18] [Server thread/INFO]: Preparing spawn area: 0%
-[17:59:18] [Server thread/INFO]: Preparing spawn area: 0%
-[17:59:18] [Server thread/INFO]: Preparing spawn area: 0%
-[17:59:18] [Server thread/INFO]: Preparing spawn area: 0%
-[17:59:18] [Server thread/INFO]: Preparing spawn area: 0%
-[17:59:18] [Server thread/INFO]: Preparing spawn area: 0%
-[17:59:18] [Server thread/INFO]: Preparing spawn area: 0%
-[17:59:18] [Server thread/INFO]: Preparing spawn area: 0%
-[17:59:18] [Server thread/INFO]: Preparing spawn area: 0%
-[17:59:22] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[17:59:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[17:59:22] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[17:59:22] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[17:59:22] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[17:59:22] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[17:59:22] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[17:59:22] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[17:59:23] [Server thread/INFO]: Preparing spawn area: 83%
-[17:59:23] [Server thread/INFO]: Time elapsed: 8590 ms
-[17:59:23] [Server thread/INFO]: Done (10.659s)! For help, type "help"
-[18:00:03] [User Authenticator #1/INFO]: UUID of player zorofam is 946daeff-e8e0-4bcb-8f05-dc9ca89ddea7
-[18:00:04] [Server thread/INFO]: zorofam[/70.66.71.25:4844] logged in with entity id 31 at (-1129.5163972789455, 78.0, 184.09593832384658)
-[18:00:04] [Server thread/INFO]: zorofam joined the game
-[18:04:04] [Server thread/INFO]: zorofam lost connection: Disconnected
-[18:04:04] [Server thread/INFO]: zorofam left the game
-[18:04:06] [User Authenticator #2/INFO]: UUID of player zorofam is 946daeff-e8e0-4bcb-8f05-dc9ca89ddea7
-[18:04:06] [Server thread/INFO]: zorofam[/70.66.71.25:4846] logged in with entity id 1766 at (-688.4876308940742, 63.10075730928782, 209.73647185658479)
-[18:04:06] [Server thread/INFO]: zorofam joined the game
-[18:04:25] [Server thread/WARN]: zorofam moved too quickly! 6.163849296445051,-1.0,8.000922066142778
-[18:04:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[18:09:28] [Server thread/WARN]: zorofam moved too quickly! 9.867587176026099,2.0,-1.3989044709933864
-[18:09:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3121ms or 62 ticks behind
+[20:36:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:36:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:36:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:36:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:36:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:36:28] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[20:36:28] [Server thread/INFO]: Loading properties
+[20:36:28] [Server thread/INFO]: Default game type: SURVIVAL
+[20:36:28] [Server thread/INFO]: Generating keypair
+[20:36:28] [Server thread/INFO]: Starting Minecraft server on 10.0.0.50:25565
+[20:36:29] [Server thread/INFO]: Using epoll channel type
+[20:36:29] [Server thread/INFO]: Preparing level "ISServer"
+[20:36:29] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:36:30] [Server thread/INFO]: Loaded 6 recipes
+[20:36:30] [Server thread/INFO]: Loaded 811 advancements
+[20:36:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:36:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:36:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:36:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:36:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:36:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:36:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:36:34] [Server thread/INFO]: Preparing spawn area: 0%
+[20:36:37] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:36:37] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[20:36:37] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[20:36:37] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[20:36:37] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:36:37] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:36:37] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[20:36:38] [Server thread/INFO]: Preparing spawn area: 0%
+[20:36:38] [Server thread/INFO]: Time elapsed: 7441 ms
+[20:36:38] [Server thread/INFO]: Done (9.189s)! For help, type "help"
+[20:36:43] [User Authenticator #1/INFO]: UUID of player isaac1234101 is dd283967-eb23-4e39-ba71-8a8d41f04bda
+[20:36:44] [Server thread/INFO]: isaac1234101[/10.0.0.5:15388] logged in with entity id 60 at (94.69999998807907, 34.0, -290.38529541296845)
+[20:36:44] [Server thread/INFO]: isaac1234101 joined the game
+[20:36:57] [User Authenticator #2/INFO]: UUID of player zorofam is 946daeff-e8e0-4bcb-8f05-dc9ca89ddea7
+[20:36:57] [Server thread/INFO]: zorofam[/70.66.71.25:1341] logged in with entity id 289 at (-181.97972271002337, 59.0, -249.34639898947103)
+[20:36:57] [Server thread/INFO]: zorofam joined the game
+[20:37:04] [Server thread/INFO]: <isaac1234101> eyyy
+[20:41:00] [User Authenticator #3/INFO]: UUID of player kaliashe is 43b5f389-3ad3-4088-90c0-2526be7d3680
+[20:41:00] [Server thread/INFO]: kaliashe[/96.54.233.225:58506] logged in with entity id 1904 at (-101.99413954558257, 64.0, -419.777544580565)
+[20:41:00] [Server thread/INFO]: kaliashe joined the game
+[20:41:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[20:41:17] [Server thread/INFO]: <isaac1234101> we have the server using 7 gigs of ram instread of 3 now
+[20:41:23] [Server thread/INFO]: <isaac1234101> there shouldnt be any more issues
+[20:41:25] [Server thread/INFO]: <kaliashe> nice!
+[20:41:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2326ms or 46 ticks behind
+[20:44:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20:47:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20:47:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4357ms or 87 ticks behind
+[20:47:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3543ms or 70 ticks behind
+[20:50:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[20:51:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4922ms or 98 ticks behind
+[20:55:48] [User Authenticator #4/INFO]: UUID of player ElliotRackam is b381a6fa-f12c-4de0-b149-95d9cfd96eb0
+[20:55:49] [Server thread/INFO]: ElliotRackam[/104.142.126.223:49226] logged in with entity id 8762 at (-280.2349378383052, 14.0, -445.8534984854594)
+[20:55:49] [Server thread/INFO]: ElliotRackam joined the game
+[20:56:10] [Server thread/INFO]: <kaliashe> I put the boats back in the chest by the door after removing my dogs from them
+[20:56:15] [Server thread/INFO]: <kaliashe> sorry about that haha
+[20:56:18] [Server thread/INFO]: <ElliotRackam> All good
+[20:56:33] [User Authenticator #5/INFO]: UUID of player echoepidemic is 412691b6-5df2-4287-ac00-a3d7e7ed570f
+[20:56:33] [Server thread/INFO]: echoepidemic[/104.142.126.223:63624] logged in with entity id 8974 at (-279.3084844306556, 12.0, -426.5299122581306)
+[20:56:33] [Server thread/INFO]: echoepidemic joined the game
+[20:56:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[20:57:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8628ms or 172 ticks behind
+[20:57:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3986ms or 79 ticks behind
+[20:59:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[21:00:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5470ms or 109 ticks behind
+[21:00:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4402ms or 88 ticks behind
+[21:02:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[21:03:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8001ms or 160 ticks behind
+[21:03:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3829ms or 76 ticks behind
+[21:05:33] [Server thread/INFO]: <kaliashe> guess who forgot to sleep for too long
+[21:05:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[21:05:44] [Server thread/INFO]: <ElliotRackam> that is the worst
+[21:05:46] [Server thread/INFO]: <isaac1234101> for some reason i havent had that problem yet
+[21:06:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8557ms or 171 ticks behind
+[21:06:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4210ms or 84 ticks behind
+[21:09:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[21:09:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7813ms or 156 ticks behind
+[21:09:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5636ms or 112 ticks behind
+[21:10:03] [Server thread/INFO]: echoepidemic has made the advancement [Isn't It Iron Pick]
+[21:10:31] [Server thread/INFO]: echoepidemic has made the advancement [Acquire Hardware]
+[21:12:01] [Server thread/INFO]: isaac1234101 lost connection: Disconnected
+[21:12:01] [Server thread/INFO]: isaac1234101 left the game
+[21:12:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21:12:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4180ms or 83 ticks behind
+[21:12:55] [Server thread/INFO]: echoepidemic has made the advancement [Monster Hunter]
+[21:16:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:16:23] [Server thread/INFO]: kaliashe lost connection: Disconnected
+[21:16:23] [Server thread/INFO]: kaliashe left the game
+[21:17:29] [User Authenticator #6/INFO]: UUID of player kaliashe is 43b5f389-3ad3-4088-90c0-2526be7d3680
+[21:17:30] [Server thread/INFO]: kaliashe[/96.54.233.225:58698] logged in with entity id 22755 at (-91.78683359034956, 67.0, -411.5027186836964)
+[21:17:30] [Server thread/INFO]: kaliashe joined the game
+[21:18:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[21:20:24] [Server thread/INFO]: echoepidemic lost connection: Disconnected
+[21:20:24] [Server thread/INFO]: echoepidemic left the game
+[21:21:34] [User Authenticator #7/INFO]: UUID of player echoepidemic is 412691b6-5df2-4287-ac00-a3d7e7ed570f
+[21:21:34] [Server thread/INFO]: echoepidemic[/104.142.126.223:63699] logged in with entity id 25267 at (-139.69999998807907, 11.0, -419.45171191412464)
+[21:21:34] [Server thread/INFO]: echoepidemic joined the game
+[21:25:09] [Server thread/INFO]: echoepidemic lost connection: Disconnected
+[21:25:09] [Server thread/INFO]: echoepidemic left the game
+[21:25:28] [Server thread/INFO]: ElliotRackam lost connection: Disconnected
+[21:25:28] [Server thread/INFO]: ElliotRackam left the game
+[21:28:24] [Server thread/WARN]: Boat (vehicle of kaliashe) moved too quickly! -0.4255861108675134,0.0,-10.275847661104336
+[21:28:24] [Server thread/WARN]: Boat (vehicle of kaliashe) moved too quickly! -0.49247190055450574,0.0,-10.664706145684733
+[21:28:24] [Server thread/WARN]: Boat (vehicle of kaliashe) moved too quickly! -0.5715351234136534,0.0,-11.04995019733613
+[21:28:24] [Server thread/WARN]: Boat (vehicle of kaliashe) moved too quickly! -0.6630287189799446,0.0,-11.431114263617786
+[21:28:24] [Server thread/WARN]: Boat (vehicle of kaliashe) moved too quickly! -0.7670056241644403,0.0,-11.807807532890564
+[21:28:24] [Server thread/WARN]: Boat (vehicle of kaliashe) moved too quickly! -0.8833561985667586,0.0,-12.179717099664032
+[21:28:24] [Server thread/WARN]: Boat (vehicle of kaliashe) moved too quickly! -1.0112792878376098,0.0,-12.547014962702718
+[21:28:24] [Server thread/WARN]: Boat (vehicle of kaliashe) moved too quickly! -1.1494392565509344,0.0,-12.910288631985253
+[21:28:24] [Server thread/WARN]: Boat (vehicle of kaliashe) moved too quickly! -1.2960761333800264,0.0,-13.270446760407111
+[21:28:24] [Server thread/WARN]: Boat (vehicle of kaliashe) moved too quickly! -1.4490785958034422,0.0,-13.628615079224545
+[21:33:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[21:38:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21:39:03] [User Authenticator #8/INFO]: UUID of player echoepidemic is 412691b6-5df2-4287-ac00-a3d7e7ed570f
+[21:39:03] [Server thread/INFO]: echoepidemic[/104.142.126.223:63719] logged in with entity id 34783 at (-138.85142977842023, 12.0, -459.69999998807907)
+[21:39:03] [Server thread/INFO]: echoepidemic joined the game
+[21:39:07] [User Authenticator #9/INFO]: UUID of player ElliotRackam is b381a6fa-f12c-4de0-b149-95d9cfd96eb0
+[21:39:07] [Server thread/INFO]: ElliotRackam[/104.142.126.223:49537] logged in with entity id 34836 at (-139.69395016153976, 11.0, -454.17007524905057)
+[21:39:07] [Server thread/INFO]: ElliotRackam joined the game
+[21:40:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[21:41:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3490ms or 69 ticks behind
+[21:43:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21:43:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7256ms or 145 ticks behind
+[21:44:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4334ms or 86 ticks behind
+[21:46:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[21:46:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:52:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
+[21:52:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8144ms or 162 ticks behind
+[21:53:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5920ms or 118 ticks behind
+[21:53:49] [Server thread/INFO]: echoepidemic has made the advancement [Fishy Business]
+[22:00:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22:00:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2855ms or 57 ticks behind
+[22:03:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[22:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5081ms or 101 ticks behind
+[22:04:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3118ms or 62 ticks behind
+[22:08:08] [Server thread/WARN]: Fetching packet for removed entity ats['Cobblestone'/48686, l='ISServer', x=-241.50, y=12.20, z=-321.29]
+[22:08:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[22:08:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[22:11:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22:14:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[22:15:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3157ms or 63 ticks behind
+[22:17:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[22:20:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[22:22:00] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/55504, l='ISServer', x=-175.66, y=91.00, z=-409.26]
+[22:23:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[22:24:14] [Server thread/INFO]: zorofam lost connection: Disconnected
+[22:24:14] [Server thread/INFO]: zorofam left the game
+[22:26:13] [Server thread/INFO]: kaliashe lost connection: Disconnected
+[22:26:13] [Server thread/INFO]: kaliashe left the game
+[22:34:39] [User Authenticator #10/INFO]: UUID of player zorofam is 946daeff-e8e0-4bcb-8f05-dc9ca89ddea7
+[22:34:39] [Server thread/INFO]: zorofam[/70.66.71.25:1636] logged in with entity id 59440 at (-269.27503176125805, 7.0, -355.69999998807907)
+[22:34:39] [Server thread/INFO]: zorofam joined the game
+[22:39:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[22:55:56] [Server thread/INFO]: <zorofam> hows everyone doing?
+[22:56:08] [Server thread/INFO]: <ElliotRackam> Making a skull is really hard when you're standing on it
+[22:56:11] [Server thread/INFO]: <ElliotRackam> scale is tricky
+[22:56:35] [Server thread/INFO]: <ElliotRackam> Kristina is done for the night so I'm using her account as a different view point
+[22:56:37] [Server thread/INFO]: <zorofam> Lol mega forhead skull
+[22:57:00] [Server thread/INFO]: <ElliotRackam> yeah it still needs work for sure
+[23:03:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23:03:47] [Server thread/INFO]: zorofam has made the advancement [Cover Me With Diamonds]
+[23:03:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[23:07:22] [Server thread/INFO]: ElliotRackam has made the advancement [Hot Stuff]
+[23:09:04] [Server thread/INFO]: <zorofam> what ya need
+[23:09:13] [Server thread/INFO]: <echoepidemic> grabbing torches for platforms
+[23:09:16] [Server thread/INFO]: <echoepidemic> and platforms
+[23:12:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[23:12:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23:15:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[23:16:52] [Server thread/INFO]: <ElliotRackam> back later
+[23:16:53] [Server thread/INFO]: ElliotRackam lost connection: Disconnected
+[23:16:53] [Server thread/INFO]: ElliotRackam left the game
+[23:16:56] [Server thread/INFO]: echoepidemic lost connection: Disconnected
+[23:16:56] [Server thread/INFO]: echoepidemic left the game
