@@ -2,7 +2,7 @@
 Description=Daily Minecraft Server backup
 
 [Timer]
-OnCalendar=daily
+OnCalendar=*-*-* 07:00
 Persistent=true
 
 [Install]

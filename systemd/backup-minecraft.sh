@@ -2,7 +2,7 @@
 
 # this is for backing up a git repository on a daily basis
 
-GIT_DIR=/root/PlumdoodleMCServer/
+GIT_DIR=/PlumdoodleMinecraftServer
 NAME=PlumdoodleMCServer
 
 # changing directory to git directory

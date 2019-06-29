@@ -3,5 +3,5 @@ Description=Daily Minecraft Server backup
 
 [Service]
 Type=oneshot
-ExecStart=/root/PlumdoodleMCServer/systemd/backup-minecraft.sh
-WorkingDirectory=/root/PlumdoodleMCServer
+ExecStart=/PlumdoodleMinecraftServer/systemd/backup-minecraft.sh
+WorkingDirectory=/PlumdoodleMinecraftServer

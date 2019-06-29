@@ -1,13 +1,13 @@
 [Unit]
-Description=Minecraft ICS SurvivalCraft Server
+Description=Plumdoodle Minecraft Server
 After=network.target
 
 [Service]
 Restart=always
 StartLimitIntervalSec=10
 StartLimitBurst=2
-ExecStart=/root/PlumdoodleMCServer/startServer.sh
-WorkingDirectory=/root/PlumdoodleMCServer
+ExecStart=/PlumdoodleMinecraftServer/startServer.sh
+WorkingDirectory=/PlumdoodleMinecraftServer
 Type=simple
 StandardError=syslog
 NotifyAccess=all
