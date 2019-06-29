@@ -1,0 +1,68 @@
+---- Minecraft Crash Report ----
+// Oops.
+
+Time: 6/28/19 11:22 PM
+Description: Exception ticking world
+
+java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1445)
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1469)
+	at java.util.Collections$UnmodifiableCollection$1.next(Collections.java:1042)
+	at axf.y(SourceFile:259)
+	at axf.o(SourceFile:389)
+	at axh.a(SourceFile:72)
+	at vi.a(SourceFile:325)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:824)
+	at ui.b(SourceFile:343)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:763)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:631)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1445)
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1469)
+	at java.util.Collections$UnmodifiableCollection$1.next(Collections.java:1042)
+	at axf.y(SourceFile:259)
+	at axf.o(SourceFile:389)
+	at axh.a(SourceFile:72)
+	at vi.a(SourceFile:325)
+
+-- Affected level --
+Details:
+	All players: 3 total; [vj['ElliotRackam'/420, l='ISServer', x=-390.50, y=77.75, z=-973.00], vj['loyini'/421, l='ISServer', x=-384.45, y=76.00, z=-1034.31], vj['zorofam'/762, l='ISServer', x=-170.99, y=135.50, z=-254.54]]
+	Chunk stats: ServerChunkCache: 4041
+	Level dimension: minecraft:overworld
+	Level name: ISServer
+	Level seed: 6546194431633768665
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: {}
+	Level spawn location: World: (-123,63,-232), Chunk: (at 5,3,8 in -8,-15; contains blocks -128,0,-240 to -113,255,-225), Region: (-1,-1; contains chunks -32,-32 to -1,-1, blocks -512,0,-512 to -1,255,-1)
+	Level time: 4119343 game time, 4717349 day time
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 11287 (now: false), thunder time: 149148 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.b(SourceFile:824)
+	at ui.b(SourceFile:343)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:763)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:631)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.14.3
+	Operating System: Linux (amd64) version 4.15.18-16-pve
+	Java Version: 1.8.0_212, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 5644562552 bytes (5383 MB) / 7366246400 bytes (7025 MB) up to 7366246400 bytes (7025 MB)
+	JVM Flags: 2 total; -Xmx7G -Xms7G
+	Player Count: 3 / 8; [vj['ElliotRackam'/420, l='ISServer', x=-390.50, y=77.75, z=-973.00], vj['loyini'/421, l='ISServer', x=-384.45, y=76.00, z=-1034.31], vj['zorofam'/762, l='ISServer', x=-170.99, y=135.50, z=-254.54]]
+	Data Packs: vanilla
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
