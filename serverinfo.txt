@@ -1,3 +1,6 @@
+# Plumdoodle MC Server
+# June 2019
+
 # seed
 6546194431633768665
 

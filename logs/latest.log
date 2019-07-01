@@ -1,32 +1,258 @@
-[11:45:22] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:45:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:45:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:45:22] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:45:22] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:45:22] [Server thread/INFO]: Starting minecraft server version 1.14.3
-[11:45:22] [Server thread/INFO]: Loading properties
-[11:45:22] [Server thread/INFO]: Default game type: SURVIVAL
-[11:45:22] [Server thread/INFO]: Generating keypair
-[11:45:23] [Server thread/INFO]: Starting Minecraft server on 10.0.0.50:25565
-[11:45:23] [Server thread/INFO]: Using epoll channel type
-[11:45:23] [Server thread/INFO]: Preparing level "ISServer"
-[11:45:23] [Server thread/INFO]: Reloading ResourceManager: Default
-[11:45:31] [Server thread/INFO]: Loaded 6 recipes
-[11:45:31] [Server thread/INFO]: Loaded 811 advancements
-[11:45:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:45:34] [Server thread/INFO]: Preparing spawn area: 0%
-[11:45:34] [Server thread/INFO]: Preparing spawn area: 0%
-[11:45:34] [Server thread/INFO]: Preparing spawn area: 0%
-[11:45:34] [Server thread/INFO]: Preparing spawn area: 0%
-[11:45:34] [Server thread/INFO]: Preparing spawn area: 0%
-[11:45:34] [Server thread/INFO]: Preparing spawn area: 0%
-[11:45:35] [Server thread/INFO]: Time elapsed: 3296 ms
-[11:45:35] [Server thread/INFO]: Done (11.672s)! For help, type "help"
-[11:47:09] [User Authenticator #1/INFO]: UUID of player echoepidemic is 412691b6-5df2-4287-ac00-a3d7e7ed570f
-[11:47:10] [Server thread/INFO]: echoepidemic[/104.142.126.223:49676] logged in with entity id 729 at (-416.30000001192093, 73.0, -1026.3158458983203)
-[11:47:10] [Server thread/INFO]: echoepidemic joined the game
-[11:47:27] [User Authenticator #2/INFO]: UUID of player ElliotRackam is b381a6fa-f12c-4de0-b149-95d9cfd96eb0
-[11:47:27] [Server thread/INFO]: ElliotRackam[/104.142.126.223:58654] logged in with entity id 1011 at (-417.31857575998214, 71.0, -1018.3062078885514)
-[11:47:27] [Server thread/INFO]: ElliotRackam joined the game
-[11:49:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
-[11:50:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2410ms or 48 ticks behind
+[00:00:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2189ms or 43 ticks behind
+[00:00:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2988ms or 59 ticks behind
+[00:02:14] [Server thread/INFO]: zorofam was slain by Enderman
+[00:02:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[00:02:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8906ms or 178 ticks behind
+[00:03:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2594ms or 51 ticks behind
+[00:03:30] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/136120, l='ISServer', x=-414.44, y=76.00, z=-1053.70]
+[00:03:30] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/136120, l='ISServer', x=-414.44, y=76.00, z=-1053.70]
+[00:03:30] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/136120, l='ISServer', x=-414.44, y=76.00, z=-1053.70]
+[00:04:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:05:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3841ms or 76 ticks behind
+[00:05:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5134ms or 102 ticks behind
+[00:06:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind
+[00:06:37] [Server thread/WARN]: zorofam moved too quickly! 1246.1879742349095,15.233632006042477,-976.4543918923797
+[00:06:37] [Server thread/WARN]: Skipping player strafe phase because no player was found
+[00:06:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2400ms or 48 ticks behind
+[00:07:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[00:09:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:10:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[00:10:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[00:11:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[00:12:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5731ms or 114 ticks behind
+[00:12:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3877ms or 77 ticks behind
+[00:13:21] [Server thread/WARN]: loyini moved too quickly! -0.08706094974102285,0.011523858383739594,-10.121228959656754
+[00:13:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4866ms or 97 ticks behind
+[00:14:19] [Server thread/INFO]: zorofam was killed by Ender Dragon using magic
+[00:14:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[00:14:48] [Server thread/INFO]: <zorofam> Managed to store my stuff thankfully
+[00:14:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[00:14:58] [Server thread/INFO]: <ElliotRackam> before you died to the dark magic
+[00:14:59] [Server thread/INFO]: <ElliotRackam> good stuff
+[00:15:10] [Server thread/INFO]: <zorofam> got 34 ender pearls from that
+[00:15:15] [Server thread/INFO]: <ElliotRackam> woah
+[00:15:25] [Server thread/INFO]: <zorofam> ye lots of endermen in end
+[00:15:29] [Server thread/INFO]: <loyini> nice
+[00:15:33] [Server thread/INFO]: <ElliotRackam> I assume you can't bring stuff back until he dies?
+[00:15:44] [Server thread/INFO]: <zorofam> yes but I had an enderchest
+[00:15:47] [Server thread/INFO]: <ElliotRackam> ohh
+[00:15:48] [Server thread/INFO]: <ElliotRackam> nice
+[00:16:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:16:56] [Server thread/INFO]: <zorofam> got 2 enderchest for each of yall
+[00:16:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2345ms or 46 ticks behind
+[00:17:07] [Server thread/INFO]: <ElliotRackam> Oh cool
+[00:17:11] [Server thread/INFO]: <zorofam> come to spawn
+[00:17:20] [Server thread/INFO]: <ElliotRackam> okay
+[00:18:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[00:18:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2546ms or 50 ticks behind
+[00:18:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5745ms or 114 ticks behind
+[00:19:09] [Server thread/INFO]: <ElliotRackam> hello
+[00:19:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[00:19:19] [Server thread/INFO]: <ElliotRackam> Thank you
+[00:19:23] [Server thread/INFO]: <zorofam> np
+[00:19:45] [Server thread/INFO]: <zorofam> if I leave the end will the towers respawn?
+[00:19:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[00:20:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
+[00:20:23] [Server thread/INFO]: <ElliotRackam> I thought they were perma destroyed but I could be wrong, I've only beaten him a few times
+[00:20:43] [Server thread/INFO]: <zorofam> I am putting 2 echests in the box outside enchantment table
+[00:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:21:03] [Server thread/INFO]: <zorofam> remmenber silk touch only on echests
+[00:21:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7379ms or 147 ticks behind
+[00:21:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9208ms or 184 ticks behind
+[00:21:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8292ms or 165 ticks behind
+[00:22:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5816ms or 116 ticks behind
+[00:22:26] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/144572, l='ISServer', x=-188.30, y=60.00, z=-403.96]
+[00:22:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4462ms or 89 ticks behind
+[00:22:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3226ms or 64 ticks behind
+[00:24:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[00:24:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2727ms or 54 ticks behind
+[00:24:41] [Server thread/INFO]: ElliotRackam lost connection: Disconnected
+[00:24:41] [Server thread/INFO]: ElliotRackam left the game
+[00:24:43] [Server thread/INFO]: echoepidemic lost connection: Disconnected
+[00:24:43] [Server thread/INFO]: echoepidemic left the game
+[00:24:49] [User Authenticator #14/INFO]: UUID of player ElliotRackam is b381a6fa-f12c-4de0-b149-95d9cfd96eb0
+[00:24:49] [Server thread/INFO]: ElliotRackam[/104.142.126.223:63073] logged in with entity id 145572 at (-446.38226012291756, 71.9375, -1071.7503348360108)
+[00:24:49] [Server thread/INFO]: ElliotRackam joined the game
+[00:26:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[00:28:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:31:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[00:31:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2294ms or 45 ticks behind
+[00:32:53] [Server thread/INFO]: <zorofam> ok going afk in the fish farm see you all tommorow
+[00:32:58] [Server thread/INFO]: <ElliotRackam> later
+[00:33:01] [Server thread/INFO]: <loyini> see ya
+[00:33:05] [Server thread/INFO]: <zorofam> tommorow we should try and kill dragon
+[00:33:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[00:34:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[00:35:28] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/149631, l='ISServer', x=-411.72, y=76.00, z=-1054.55]
+[00:35:28] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/149631, l='ISServer', x=-411.72, y=76.00, z=-1054.55]
+[00:36:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:36:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2867ms or 57 ticks behind
+[00:36:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[00:39:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:40:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:41:45] [Server thread/INFO]: <ElliotRackam> I like the CD
+[00:41:48] [Server thread/INFO]: <ElliotRackam> record
+[00:41:49] [Server thread/INFO]: <ElliotRackam> same thing
+[00:42:08] [Server thread/INFO]: <ElliotRackam> just lookin
+[00:42:09] [Server thread/INFO]: <loyini> only employees back here
+[00:42:15] [Server thread/INFO]: <ElliotRackam> that's reasonable
+[00:42:18] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/152309, l='ISServer', x=-410.83, y=76.00, z=-1056.17]
+[00:42:18] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/152309, l='ISServer', x=-410.83, y=76.00, z=-1056.17]
+[00:42:22] [Server thread/INFO]: <ElliotRackam> \
+[00:42:28] [Server thread/INFO]: <ElliotRackam> I was just uh, safety inspector
+[00:42:33] [Server thread/INFO]: <loyini> ah right
+[00:42:35] [Server thread/INFO]: <ElliotRackam> checking everything was up to code
+[00:43:01] [Server thread/INFO]: <ElliotRackam> Is your buisness going to have a sign also?
+[00:43:08] [Server thread/INFO]: <loyini> i dont know how reasonable my prices are
+[00:43:13] [Server thread/INFO]: <ElliotRackam> ah
+[00:43:15] [Server thread/INFO]: <loyini> ya almost done
+[00:43:17] [Server thread/INFO]: <ElliotRackam> I haven't checked yet
+[00:43:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[00:43:53] [Server thread/INFO]: <ElliotRackam> Oh man, I like this
+[00:43:55] [Server thread/INFO]: <ElliotRackam> I just read the book
+[00:43:57] [Server thread/INFO]: <ElliotRackam> good stuff
+[00:44:37] [Server thread/INFO]: <ElliotRackam> Little pricey for my diamond supply for now
+[00:44:39] [Server thread/INFO]: <ElliotRackam> we'll see
+[00:44:52] [Server thread/INFO]: <loyini> ya thats what I thought
+[00:44:59] [Server thread/INFO]: <ElliotRackam> How do you feel about bulk delivery of things like smooth stone
+[00:45:02] [Server thread/INFO]: <loyini> though it includes delivery
+[00:45:05] [Server thread/INFO]: <ElliotRackam> now that's something I'd pay for
+[00:45:06] [Server thread/INFO]: <loyini> not tips though haha
+[00:46:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:47:51] [Server thread/INFO]: <loyini> the zombies are spawning again
+[00:47:59] [Server thread/INFO]: <ElliotRackam> free exp
+[00:48:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[00:48:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2702ms or 54 ticks behind
+[00:49:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[00:50:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2443ms or 48 ticks behind
+[00:50:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[00:50:47] [Server thread/INFO]: <loyini> i think i have a good deal for iron blocks and block of the like
+[00:50:54] [Server thread/INFO]: <loyini> 1 block of iron for 1 ingot
+[00:51:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4640ms or 92 ticks behind
+[00:51:14] [Server thread/INFO]: <ElliotRackam> that seems like a good deal
+[00:51:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2765ms or 55 ticks behind
+[00:52:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[00:53:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[00:53:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6704ms or 134 ticks behind
+[00:53:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4397ms or 87 ticks behind
+[00:54:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2661ms or 53 ticks behind
+[00:55:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[00:55:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9065ms or 181 ticks behind
+[00:56:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5114ms or 102 ticks behind
+[00:56:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2824ms or 56 ticks behind
+[00:57:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[00:58:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4296ms or 85 ticks behind
+[00:58:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3289ms or 65 ticks behind
+[00:58:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3625ms or 72 ticks behind
+[01:00:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01:00:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2682ms or 53 ticks behind
+[01:00:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[01:02:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01:03:51] [Server thread/INFO]: <loyini> wait a minute...
+[01:03:58] [Server thread/INFO]: <ElliotRackam> okay
+[01:04:20] [Server thread/INFO]: <loyini> did you close the door behind me
+[01:04:27] [Server thread/INFO]: <ElliotRackam> I'm way over here
+[01:04:31] [Server thread/INFO]: <ElliotRackam> so no
+[01:04:40] [Server thread/INFO]: <loyini> then hoooooow
+[01:04:46] [Server thread/INFO]: <ElliotRackam> wind?
+[01:04:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[01:04:55] [Server thread/INFO]: <loyini> zombie?
+[01:05:05] [Server thread/INFO]: <ElliotRackam> do they open doors?
+[01:05:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2462ms or 49 ticks behind
+[01:05:17] [Server thread/INFO]: <loyini> well, its with a lever cause its iron so idk
+[01:05:20] [Server thread/INFO]: <ElliotRackam> oh
+[01:05:23] [Server thread/INFO]: <ElliotRackam> maybe?
+[01:05:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:06:31] [Server thread/INFO]: <ElliotRackam> You like how it's coming?
+[01:06:39] [Server thread/INFO]: <loyini> its awesome
+[01:06:47] [Server thread/INFO]: <ElliotRackam> I still need to work on the outside a bit more
+[01:06:51] [Server thread/INFO]: <ElliotRackam> but I think it's going well
+[01:07:14] [Server thread/INFO]: <ElliotRackam> I wanted something like a gate house in the real world
+[01:07:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[01:07:47] [Server thread/INFO]: <ElliotRackam> I might build a moat around it outside, and then a redstone drawbridge maybe?
+[01:07:52] [Server thread/INFO]: <ElliotRackam> could be a nice entrance
+[01:08:00] [Server thread/INFO]: <loyini> damn thats fancy
+[01:08:09] [Server thread/INFO]: <ElliotRackam> the drawbridge is def out of scope
+[01:08:14] [Server thread/INFO]: <ElliotRackam> but the moat seems do-able
+[01:09:10] [Server thread/INFO]: <loyini> my store is offically open now!
+[01:09:26] [Server thread/INFO]: <ElliotRackam> Excellent, I'll likely have some purchases to put in before I sign off
+[01:09:34] [Server thread/INFO]: <loyini> sweeeet
+[01:09:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[01:09:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3451ms or 69 ticks behind
+[01:10:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2585ms or 51 ticks behind
+[01:11:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01:12:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3745ms or 74 ticks behind
+[01:12:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2669ms or 53 ticks behind
+[01:12:54] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/165800, l='ISServer', x=-411.28, y=76.00, z=-1056.17]
+[01:12:54] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/165800, l='ISServer', x=-411.28, y=76.00, z=-1056.17]
+[01:14:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[01:14:25] [Server thread/INFO]: <ElliotRackam> oh hey
+[01:14:28] [Server thread/INFO]: <loyini> yo
+[01:14:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6855ms or 137 ticks behind
+[01:14:42] [Server thread/INFO]: <ElliotRackam> dangerous out there
+[01:14:53] [Server thread/INFO]: <loyini> just grabbing flowers
+[01:14:55] [Server thread/INFO]: <ElliotRackam> ah
+[01:14:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3841ms or 76 ticks behind
+[01:15:55] [Server thread/INFO]: <loyini> alright im going to bed now, see ya tomorrow
+[01:15:58] [Server thread/INFO]: <ElliotRackam> see ya
+[01:16:04] [Server thread/INFO]: loyini lost connection: Disconnected
+[01:16:04] [Server thread/INFO]: loyini left the game
+[01:16:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[01:17:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8505ms or 170 ticks behind
+[01:21:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:22:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2652ms or 53 ticks behind
+[01:25:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[01:26:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[01:26:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3830ms or 76 ticks behind
+[01:27:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3082ms or 61 ticks behind
+[01:27:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2594ms or 51 ticks behind
+[01:27:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[01:28:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2156ms or 43 ticks behind
+[01:31:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[01:32:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[01:33:30] [Server thread/INFO]: ElliotRackam lost connection: Disconnected
+[01:33:30] [Server thread/INFO]: ElliotRackam left the game
+[02:30:36] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/184906, l='ISServer', x=-151.66, y=81.00, z=-215.54]
+[03:45:34] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/200206, l='ISServer', x=-151.25, y=81.00, z=-215.40]
+[06:58:55] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/235355, l='ISServer', x=-151.25, y=81.00, z=-215.40]
+[08:27:50] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/250280, l='ISServer', x=-154.28, y=81.00, z=-215.84]
+[08:35:02] [User Authenticator #15/INFO]: UUID of player loyini is ea88da9f-7726-421c-ad50-837865f17f15
+[08:35:03] [Server thread/INFO]: loyini[/70.67.104.177:50018] logged in with entity id 251313 at (-438.704946270333, 63.0, -1029.699999988079)
+[08:35:03] [Server thread/INFO]: loyini joined the game
+[08:39:09] [Server thread/INFO]: loyini has made the advancement [A Seedy Place]
+[08:40:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[08:41:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[08:41:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4867ms or 97 ticks behind
+[08:41:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3289ms or 65 ticks behind
+[08:43:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[08:44:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4089ms or 81 ticks behind
+[08:44:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2428ms or 48 ticks behind
+[08:46:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
+[08:47:54] [Server thread/WARN]: loyini moved too quickly! 0.36390066532158727,-0.3857593734295648,10.326606178679754
+[08:47:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2261ms or 45 ticks behind
+[08:49:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[08:49:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
+[08:50:16] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/256184, l='ISServer', x=-191.86, y=60.00, z=-408.72]
+[08:52:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
+[08:52:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4179ms or 83 ticks behind
+[08:53:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2726ms or 54 ticks behind
+[08:54:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08:55:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2676ms or 53 ticks behind
+[08:57:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3248ms or 64 ticks behind
+[08:58:23] [Server thread/WARN]: loyini moved too quickly! 10.311705210338928,0.20000004768371582,0.09255338449655426
+[08:58:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
+[09:02:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[09:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2550ms or 51 ticks behind
+[09:06:46] [Server thread/INFO]: zorofam lost connection: Disconnected
+[09:06:46] [Server thread/INFO]: zorofam left the game
+[09:08:03] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/262479, l='ISServer', x=-189.64, y=59.00, z=-416.80]
+[09:08:06] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/262486, l='ISServer', x=-189.85, y=59.00, z=-416.34]
+[09:09:00] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/262611, l='ISServer', x=-167.83, y=91.00, z=-412.66]
+[09:09:13] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/262651, l='ISServer', x=-191.80, y=59.00, z=-415.72]
+[09:10:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
+[09:18:27] [Server thread/INFO]: loyini was impaled by Drowned
+[09:21:28] [Server thread/INFO]: loyini lost connection: Disconnected
+[09:21:28] [Server thread/INFO]: loyini left the game
+[10:15:30] [User Authenticator #16/INFO]: UUID of player zorofam is 946daeff-e8e0-4bcb-8f05-dc9ca89ddea7
+[10:15:30] [Server thread/INFO]: zorofam[/70.66.71.25:8961] logged in with entity id 267236 at (-148.8765466904408, 54.0, -231.6635778573486)
+[10:15:30] [Server thread/INFO]: zorofam joined the game

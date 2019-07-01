@@ -1,11 +1,11 @@
 [Unit]
 Description=Plumdoodle Minecraft Server
 After=network.target
+StartLimitIntervalSec=1
+StartLimitBurst=1
 
 [Service]
 Restart=always
-StartLimitIntervalSec=10
-StartLimitBurst=2
 ExecStart=/PlumdoodleMinecraftServer/startServer.sh
 WorkingDirectory=/PlumdoodleMinecraftServer
 Type=simple
