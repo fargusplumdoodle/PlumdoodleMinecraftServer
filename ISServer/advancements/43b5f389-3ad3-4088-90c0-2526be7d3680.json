@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2019-07-01 16:30:34 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-06-29 12:34:48 -0700"
@@ -392,6 +398,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-06-27 14:42:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2019-07-01 16:30:34 -0700"
     },
     "done": true
   },
@@ -1043,7 +1055,13 @@
       "minecraft:forest": "2019-06-27 13:37:49 -0700",
       "minecraft:taiga": "2019-06-29 16:39:27 -0700",
       "minecraft:desert_hills": "2019-06-29 01:20:22 -0700",
+      "minecraft:giant_tree_taiga": "2019-07-01 15:24:45 -0700",
+      "minecraft:taiga_hills": "2019-07-01 15:24:31 -0700",
       "minecraft:desert": "2019-06-27 18:38:22 -0700",
+      "minecraft:jungle": "2019-07-01 15:16:24 -0700",
+      "minecraft:jungle_hills": "2019-07-01 15:20:06 -0700",
+      "minecraft:bamboo_jungle": "2019-07-01 15:16:07 -0700",
+      "minecraft:warm_ocean": "2019-07-01 15:26:24 -0700",
       "minecraft:deep_lukewarm_ocean": "2019-06-29 01:20:52 -0700",
       "minecraft:badlands": "2019-06-27 18:38:23 -0700",
       "minecraft:beach": "2019-06-27 13:40:10 -0700",
@@ -1143,6 +1161,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-06-29 12:34:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2019-07-01 15:54:09 -0700"
     },
     "done": true
   },
@@ -2084,6 +2108,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-06-27 14:42:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2019-07-01 15:54:09 -0700"
     },
     "done": true
   },
