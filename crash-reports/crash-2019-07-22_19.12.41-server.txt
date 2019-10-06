@@ -1,0 +1,69 @@
+---- Minecraft Crash Report ----
+// This is a token for 1 free hug. Redeem at your nearest Mojangsta: [~~HUG~~]
+
+Time: 7/22/19, 7:12 PM
+Description: Exception ticking world
+
+java.util.ConcurrentModificationException
+	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1493)
+	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1516)
+	at java.base/java.util.Collections$UnmodifiableCollection$1.next(Collections.java:1045)
+	at axf.y(SourceFile:259)
+	at axf.o(SourceFile:389)
+	at axh.a(SourceFile:72)
+	at vi.a(SourceFile:325)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:824)
+	at ui.b(SourceFile:343)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:763)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:631)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1493)
+	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1516)
+	at java.base/java.util.Collections$UnmodifiableCollection$1.next(Collections.java:1045)
+	at axf.y(SourceFile:259)
+	at axf.o(SourceFile:389)
+	at axh.a(SourceFile:72)
+	at vi.a(SourceFile:325)
+
+-- Affected level --
+Details:
+	All players: 0 total; []
+	Chunk stats: ServerChunkCache: 1681
+	Level dimension: minecraft:the_end
+	Derived: true
+	Level name: ISServer
+	Level seed: 6546194431633768665
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: {}
+	Level spawn location: World: (-123,63,-232), Chunk: (at 5,3,8 in -8,-15; contains blocks -128,0,-240 to -113,255,-225), Region: (-1,-1; contains chunks -32,-32 to -1,-1, blocks -512,0,-512 to -1,255,-1)
+	Level time: 43932951 game time, 46506416 day time
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 68587 (now: false), thunder time: 12475 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.b(SourceFile:824)
+	at ui.b(SourceFile:343)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:763)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:631)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.14.3
+	Operating System: Linux (amd64) version 4.12.14-lp151.28.7-default
+	Java Version: 11.0.3, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 2527775248 bytes (2410 MB) / 3531603968 bytes (3368 MB) up to 17179869184 bytes (16384 MB)
+	JVM Flags: 3 total; -Xmx16G -Xms512M -XX:+UseG1GC
+	Player Count: 2 / 8; [vj['melonballah'/608, l='ISServer', x=-450.51, y=82.00, z=-467.18], vj['loyini'/340, l='ISServer', x=-118.50, y=63.00, z=-229.50]]
+	Data Packs: vanilla
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
