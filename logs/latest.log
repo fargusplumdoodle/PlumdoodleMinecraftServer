@@ -1,90 +1,25 @@
-[13:10:45] [User Authenticator #19/INFO]: UUID of player J0hnL0ck3 is 946daeff-e8e0-4bcb-8f05-dc9ca89ddea7
-[13:10:46] [Server thread/INFO]: J0hnL0ck3[/70.66.71.25:15470] logged in with entity id 245912 at (-165.48007295085844, 41.0, -7842.236112091959)
-[13:10:46] [Server thread/INFO]: J0hnL0ck3 joined the game
-[13:17:54] [Server thread/INFO]: J0hnL0ck3 lost connection: Disconnected
-[13:17:54] [Server thread/INFO]: J0hnL0ck3 left the game
-[13:18:35] [User Authenticator #20/INFO]: UUID of player J0hnL0ck3 is 946daeff-e8e0-4bcb-8f05-dc9ca89ddea7
-[13:18:35] [Server thread/INFO]: J0hnL0ck3[/70.66.71.25:15737] logged in with entity id 247317 at (-164.41458705916497, 40.0, -7823.300000011921)
-[13:18:35] [Server thread/INFO]: J0hnL0ck3 joined the game
-[13:19:01] [User Authenticator #21/INFO]: UUID of player plumdoodle is dd283967-eb23-4e39-ba71-8a8d41f04bda
-[13:19:01] [Server thread/INFO]: plumdoodle[/10.0.0.5:1971] logged in with entity id 247658 at (-2509.300000011921, 65.0, 1632.699999988079)
-[13:19:01] [Server thread/INFO]: plumdoodle joined the game
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -9.310096072698798,0.0,-4.365575314570378
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -9.682235437448071,0.0,-4.509415365841505
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -10.054525928325802,0.0,-4.653149064187346
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -10.426464285575548,0.0,-4.798004308653844
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -10.797317377719082,0.0,-4.945583622151844
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -11.166435847058892,0.0,-5.097122056921762
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -11.533255317469411,0.0,-5.253555333699069
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -11.897299347780972,0.0,-5.4155666876893065
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -12.25817643110804,0.0,-5.583631587358013
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -12.615573960109941,0.0,-5.7580569475701395
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -12.969252330065956,0.0,-5.939012269580644
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -13.319037634885262,0.0,-6.126556828833827
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -13.664813418999984,0.0,-6.320663322555902
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -14.006514356753087,0.0,-6.521235457099465
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -14.344122156410776,0.0,-6.728120362324944
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -14.67765352539891,0.0,-6.941127941555806
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -15.0071587900743,0.0,-7.160036311591739
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -15.332712474647906,0.0,-7.384604894359427
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -15.654412229952413,0.0,-7.614577459866723
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -15.97237232424186,0.0,-7.849690221828496
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -16.286722881105106,0.0,-8.089673425899264
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -16.597600858252918,0.0,-8.334260741888784
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -16.905152647949308,0.0,-8.583186758816055
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -17.20952531789726,0.0,-8.83619534008426
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -17.510872438965635,0.0,-9.09303374885576
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -17.80934538452084,0.0,-9.35346052793011
-[13:20:01] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -18.105096575113294,0.0,-9.617241982005908
-[13:20:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
-[13:25:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3066ms or 61 ticks behind
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 10.30681368958949,0.0,-1.020852568514826
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 10.698510090341642,0.0,-0.9848355724526385
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 11.088529064763406,0.0,-0.9384835299898739
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 11.476737419127403,0.0,-0.8820458469109731
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 11.863032974210455,0.0,-0.8158348298299032
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 12.247340025881385,0.0,-0.7402037210154546
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 12.62960859003806,0.0,-0.655537837384518
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 13.00981149905283,0.0,-0.5622432744999486
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 13.387941088220032,0.0,-0.4607369664802974
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 13.764007346045673,0.0,-0.35144138325273033
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 14.138034167071055,0.0,-0.2347764686494287
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 14.510059112385079,0.0,-0.11115935098741403
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 14.880131253204581,0.0,0.018999253407077532
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 15.248307173743342,0.0,0.1553015496940766
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 15.614648957035115,0.0,0.29736502874338555
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 15.979225993163709,0.0,0.44481784284700154
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 16.342109029423227,0.0,0.5973079990261105
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 16.703372221344125,0.0,0.7544981884345034
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 17.063091149015236,0.0,0.9160678029540321
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 17.421342894421286,0.0,1.0817113787427672
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 17.778202180863445,0.0,1.2511437985054101
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 18.133745639592235,0.0,1.4240917245416185
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 18.48804585971311,0.0,1.6003023840751318
-[13:30:06] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! 18.841175808264325,0.0,1.7795349730137424
-[13:30:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
-[13:35:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2426ms or 48 ticks behind
-[13:40:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
-[13:45:02] [Server thread/WARN]: J0hnL0ck3 moved too quickly! 259.5833806495365,6.945106652967922,7827.691275728532
-[13:45:02] [Server thread/WARN]: J0hnL0ck3 moved too quickly! 259.5833806495365,6.945106652967922,7827.691275728532
-[13:45:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2481ms or 49 ticks behind
-[13:45:06] [Server thread/INFO]: plumdoodle has made the advancement [Eye Spy]
-[13:45:19] [Server thread/INFO]: plumdoodle has made the advancement [The End?]
-[13:45:20] [Server thread/WARN]: plumdoodle moved too quickly! 1245.7094891022637,15.1875,-978.5844378850159
-[13:51:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[13:55:19] [Server thread/WARN]: plumdoodle moved too quickly! -0.9164342407619301,-2.5605130097938087,-17.329304501380648
-[13:55:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3788ms or 75 ticks behind
-[13:55:58] [Server thread/WARN]: plumdoodle moved too quickly! 6.347725969365257,-2.3131045413909987,-16.130044244266173
-[13:56:00] [Server thread/WARN]: plumdoodle moved too quickly! 6.282991777642536,-0.7557480973912334,-17.159361723556685
-[13:56:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2328ms or 46 ticks behind
-[14:00:25] [Server thread/WARN]: J0hnL0ck3 moved too quickly! 16.226898226159932,-4.059003982520025,4.719432495126057
-[14:00:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4380ms or 87 ticks behind
-[14:00:41] [Server thread/WARN]: J0hnL0ck3 moved too quickly! -17.65560506244762,2.4949195766719896,2.7633664998484164
-[14:05:29] [Server thread/WARN]: J0hnL0ck3 moved too quickly! 6.545697854027594,0.0,7.705722999528916
-[14:05:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3085ms or 61 ticks behind
-[14:14:57] [Server thread/WARN]: plumdoodle moved too quickly! 259.5544498549233,7.233632006042477,7827.271256006018
-[14:15:01] [Server thread/WARN]: J0hnL0ck3 moved too quickly! 259.2280394012246,7.233632006042477,7827.976325125222
-[14:17:06] [Server thread/INFO]: plumdoodle lost connection: Disconnected
-[14:17:06] [Server thread/INFO]: plumdoodle left the game
-[14:19:25] [Server thread/INFO]: J0hnL0ck3 lost connection: Disconnected
-[14:19:25] [Server thread/INFO]: J0hnL0ck3 left the game
+[12:56:24] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:56:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:56:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:56:24] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:56:24] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:56:24] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[12:56:24] [Server thread/INFO]: Loading properties
+[12:56:24] [Server thread/INFO]: Default game type: SURVIVAL
+[12:56:24] [Server thread/INFO]: Generating keypair
+[12:56:25] [Server thread/INFO]: Starting Minecraft server on 10.0.0.50:25565
+[12:56:25] [Server thread/INFO]: Using epoll channel type
+[12:56:25] [Server thread/INFO]: Preparing level "ISServer"
+[12:56:25] [Server thread/INFO]: Reloading ResourceManager: Default
+[12:56:33] [Server thread/INFO]: Loaded 6 recipes
+[12:56:33] [Server thread/INFO]: Loaded 811 advancements
+[12:56:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:56:36] [Server thread/INFO]: Preparing spawn area: 0%
+[12:56:36] [Server thread/INFO]: Preparing spawn area: 0%
+[12:56:36] [Server thread/INFO]: Preparing spawn area: 0%
+[12:56:36] [Server thread/INFO]: Preparing spawn area: 0%
+[12:56:36] [Server thread/INFO]: Preparing spawn area: 0%
+[12:56:36] [Server thread/INFO]: Preparing spawn area: 0%
+[12:56:36] [Server thread/INFO]: Preparing spawn area: 55%
+[12:56:37] [Server thread/INFO]: Time elapsed: 3628 ms
+[12:56:37] [Server thread/INFO]: Done (11.672s)! For help, type "help"

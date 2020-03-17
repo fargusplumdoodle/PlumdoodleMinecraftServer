@@ -1,0 +1,193 @@
+---- Minecraft Crash Report ----
+// My bad.
+
+Time: 1/12/20, 1:30 PM
+Description: Watching Server
+
+java.lang.Error
+	at java.base@11.0.3/java.io.RandomAccessFile.write0(Native Method)
+	at java.base@11.0.3/java.io.RandomAccessFile.write(RandomAccessFile.java:523)
+	at java.base@11.0.3/java.io.RandomAccessFile.writeInt(RandomAccessFile.java:1064)
+	at app//byd.b(SourceFile:334)
+	at app//byd.a(SourceFile:300)
+	at app//byd$a.close(SourceFile:231)
+	at java.base@11.0.3/java.util.zip.DeflaterOutputStream.close(DeflaterOutputStream.java:241)
+	at java.base@11.0.3/java.io.FilterOutputStream.close(FilterOutputStream.java:188)
+	at java.base@11.0.3/java.io.FilterOutputStream.close(FilterOutputStream.java:188)
+	at app//bye.a(SourceFile:61)
+	at app//byb.a(SourceFile:58)
+	at app//uu.a(SourceFile:696)
+	at app//uu.e(SourceFile:372)
+	at app//uu$$Lambda$2506/0x00000008004e8440.accept(Unknown Source)
+	at java.base@11.0.3/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+	at java.base@11.0.3/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177)
+	at java.base@11.0.3/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base@11.0.3/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base@11.0.3/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base@11.0.3/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base@11.0.3/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base@11.0.3/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base@11.0.3/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base@11.0.3/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497)
+	at app//uu.a(SourceFile:369)
+	at app//vg.a(SourceFile:280)
+	at app//vi.a(SourceFile:741)
+	at app//net.minecraft.server.MinecraftServer.a(SourceFile:528)
+	at app//net.minecraft.server.MinecraftServer.a(SourceFile:782)
+	at app//net.minecraft.server.MinecraftServer.run(SourceFile:631)
+	at java.base@11.0.3/java.lang.Thread.run(Thread.java:834)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at java.base@11.0.3/java.io.RandomAccessFile.write0(Native Method)
+	at java.base@11.0.3/java.io.RandomAccessFile.write(RandomAccessFile.java:523)
+	at java.base@11.0.3/java.io.RandomAccessFile.writeInt(RandomAccessFile.java:1064)
+	at app//byd.b(SourceFile:334)
+	at app//byd.a(SourceFile:300)
+	at app//byd$a.close(SourceFile:231)
+	at java.base@11.0.3/java.util.zip.DeflaterOutputStream.close(DeflaterOutputStream.java:241)
+	at java.base@11.0.3/java.io.FilterOutputStream.close(FilterOutputStream.java:188)
+	at java.base@11.0.3/java.io.FilterOutputStream.close(FilterOutputStream.java:188)
+	at app//bye.a(SourceFile:61)
+	at app//byb.a(SourceFile:58)
+	at app//uu.a(SourceFile:696)
+	at app//uu.e(SourceFile:372)
+	at app//uu$$Lambda$2506/0x00000008004e8440.accept(Unknown Source)
+	at java.base@11.0.3/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+	at java.base@11.0.3/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177)
+	at java.base@11.0.3/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base@11.0.3/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base@11.0.3/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base@11.0.3/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base@11.0.3/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base@11.0.3/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base@11.0.3/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base@11.0.3/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497)
+	at app//uu.a(SourceFile:369)
+	at app//vg.a(SourceFile:280)
+	at app//vi.a(SourceFile:741)
+	at app//net.minecraft.server.MinecraftServer.a(SourceFile:528)
+	at app//net.minecraft.server.MinecraftServer.a(SourceFile:782)
+
+-- Thread Dump --
+Details:
+	Threads: "Reference Handler" daemon prio=10 Id=2 RUNNABLE
+	at java.base@11.0.3/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+	at java.base@11.0.3/java.lang.ref.Reference.processPendingReferences(Reference.java:241)
+	at java.base@11.0.3/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:213)
+
+
+"Finalizer" daemon prio=8 Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@46788316
+	at java.base@11.0.3/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@46788316
+	at java.base@11.0.3/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@11.0.3/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+	at java.base@11.0.3/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:170)
+
+
+"Signal Dispatcher" daemon prio=9 Id=4 RUNNABLE
+
+
+"Common-Cleaner" daemon prio=8 Id=19 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@42470f01
+	at java.base@11.0.3/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@42470f01
+	at java.base@11.0.3/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@11.0.3/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:148)
+	at java.base@11.0.3/java.lang.Thread.run(Thread.java:834)
+	at java.base@11.0.3/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:134)
+
+
+"Server-Worker-3" daemon prio=5 Id=25 WAITING on java.util.concurrent.ForkJoinPool@745892d
+	at java.base@11.0.3/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@745892d
+	at java.base@11.0.3/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
+	at java.base@11.0.3/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1628)
+	at java.base@11.0.3/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:177)
+
+
+"Snooper Timer" daemon prio=5 Id=30 WAITING on java.util.TaskQueue@34eaf958
+	at java.base@11.0.3/java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@34eaf958
+	at java.base@11.0.3/java.lang.Object.wait(Object.java:328)
+	at java.base@11.0.3/java.util.TimerThread.mainLoop(Timer.java:527)
+	at java.base@11.0.3/java.util.TimerThread.run(Timer.java:506)
+
+
+"Server Infinisleeper" daemon prio=5 Id=32 TIMED_WAITING
+	at java.base@11.0.3/java.lang.Thread.sleep(Native Method)
+	at app//ui$1.run(SourceFile:93)
+
+
+"Server thread" prio=5 Id=31 RUNNABLE (in native)
+	at java.base@11.0.3/java.io.RandomAccessFile.write0(Native Method)
+	at java.base@11.0.3/java.io.RandomAccessFile.write(RandomAccessFile.java:523)
+	at java.base@11.0.3/java.io.RandomAccessFile.writeInt(RandomAccessFile.java:1064)
+	at app//byd.b(SourceFile:334)
+	at app//byd.a(SourceFile:300)
+	-  locked byd@3608ace0
+	at app//byd$a.close(SourceFile:231)
+	at java.base@11.0.3/java.util.zip.DeflaterOutputStream.close(DeflaterOutputStream.java:241)
+	at java.base@11.0.3/java.io.FilterOutputStream.close(FilterOutputStream.java:188)
+	...
+
+
+"DestroyJavaVM" prio=5 Id=35 RUNNABLE
+
+
+"ObjectCleanerThread" daemon prio=1 Id=36 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@4c4d8227
+	at java.base@11.0.3/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@4c4d8227
+	at java.base@11.0.3/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at app//io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54)
+	at app//io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base@11.0.3/java.lang.Thread.run(Thread.java:834)
+
+
+"Netty Epoll Server IO #0" daemon prio=5 Id=37 RUNNABLE
+	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
+	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.base@11.0.3/java.lang.Thread.run(Thread.java:834)
+
+
+"Server Watchdog" daemon prio=5 Id=38 RUNNABLE
+	at java.management@11.0.3/sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at java.management@11.0.3/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:502)
+	at java.management@11.0.3/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:490)
+	at app//ul.run(SourceFile:45)
+	at java.base@11.0.3/java.lang.Thread.run(Thread.java:834)
+
+
+"Java2D Disposer" daemon prio=10 Id=39 WAITING on java.lang.ref.ReferenceQueue$Lock@676a7662
+	at java.base@11.0.3/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@676a7662
+	at java.base@11.0.3/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@11.0.3/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+	at java.desktop@11.0.3/sun.java2d.Disposer.run(Disposer.java:144)
+	at java.base@11.0.3/java.lang.Thread.run(Thread.java:834)
+
+
+
+Stacktrace:
+	at ul.run(SourceFile:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.14.3
+	Operating System: Linux (amd64) version 4.12.14-lp151.28.7-default
+	Java Version: 11.0.3, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 2734610912 bytes (2607 MB) / 5913968640 bytes (5640 MB) up to 17179869184 bytes (16384 MB)
+	JVM Flags: 3 total; -Xmx16G -Xms512M -XX:+UseG1GC
+	Player Count: 0 / 8; []
+	Data Packs: vanilla
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
