@@ -1317,6 +1317,7 @@
       "minecraft:river": "2019-06-26 13:14:56 -0700",
       "minecraft:birch_forest_hills": "2019-10-05 13:57:48 -0700",
       "minecraft:bamboo_jungle_hills": "2019-07-07 15:54:44 -0700",
+      "minecraft:wooded_mountains": "2020-03-18 20:50:53 -0700",
       "minecraft:wooded_hills": "2019-06-27 18:44:16 -0700",
       "minecraft:wooded_badlands_plateau": "2019-06-26 22:15:17 -0700",
       "minecraft:mushroom_field_shore": "2019-06-27 15:20:37 -0700",
@@ -1848,6 +1849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2020-03-18 20:32:44 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2019-06-27 17:19:25 -0700"
@@ -2026,6 +2033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2020-03-18 20:32:44 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2019-06-26 13:30:13 -0700"
@@ -2161,6 +2174,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2019-06-26 14:11:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2020-03-18 20:32:44 -0700"
     },
     "done": true
   },

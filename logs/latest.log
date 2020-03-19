@@ -38,3 +38,397 @@
 [15:50:25] [Server thread/INFO]: plumdoodle joined the game
 [15:51:11] [Server thread/INFO]: plumdoodle lost connection: Disconnected
 [15:51:11] [Server thread/INFO]: plumdoodle left the game
+[17:25:39] [User Authenticator #3/INFO]: UUID of player plumdoodle is dd283967-eb23-4e39-ba71-8a8d41f04bda
+[17:25:39] [Server thread/INFO]: plumdoodle[/70.66.155.115:34718] logged in with entity id 963 at (-155.70000002533197, 78.0000002, -220.70000002533197)
+[17:25:39] [Server thread/INFO]: plumdoodle joined the game
+[17:27:40] [Server thread/INFO]: plumdoodle lost connection: Timed out
+[17:27:40] [Server thread/INFO]: plumdoodle left the game
+[19:08:50] [User Authenticator #4/INFO]: UUID of player HeRanToKim is 7e573e87-33a7-4a69-8326-e3930be8d610
+[19:08:50] [Server thread/INFO]: HeRanToKim[/104.142.114.6:60519] logged in with entity id 1634 at (-117.5, 63.0, -230.5)
+[19:08:50] [Server thread/INFO]: HeRanToKim joined the game
+[19:17:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[19:18:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3630ms or 72 ticks behind
+[19:18:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6964ms or 139 ticks behind
+[19:18:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3587ms or 71 ticks behind
+[19:19:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4625ms or 92 ticks behind
+[19:19:29] [Server thread/INFO]: HeRanToKim lost connection: Disconnected
+[19:19:29] [Server thread/INFO]: HeRanToKim left the game
+[19:28:49] [User Authenticator #5/INFO]: UUID of player plumdoodle is dd283967-eb23-4e39-ba71-8a8d41f04bda
+[19:28:49] [Server thread/INFO]: plumdoodle[/70.66.155.115:29056] logged in with entity id 4903 at (-155.4212766540839, 78.0, -220.6764588394964)
+[19:28:49] [Server thread/INFO]: plumdoodle joined the game
+[19:29:49] [Server thread/INFO]: plumdoodle lost connection: Disconnected
+[19:29:49] [Server thread/INFO]: plumdoodle left the game
+[19:39:53] [User Authenticator #6/INFO]: UUID of player plumdoodle is dd283967-eb23-4e39-ba71-8a8d41f04bda
+[19:39:53] [Server thread/INFO]: plumdoodle[/70.66.155.115:38512] logged in with entity id 5451 at (-155.4212766540839, 78.0, -220.6764588394964)
+[19:39:53] [Server thread/INFO]: plumdoodle joined the game
+[19:42:24] [User Authenticator #7/INFO]: UUID of player HeRanToKim is 7e573e87-33a7-4a69-8326-e3930be8d610
+[19:42:24] [Server thread/INFO]: HeRanToKim[/104.142.114.6:60585] logged in with entity id 6158 at (-187.8445629826867, 69.0, -403.84350590413726)
+[19:42:24] [Server thread/INFO]: HeRanToKim joined the game
+[19:42:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[19:42:35] [Server thread/INFO]: <plumdoodle> hey!
+[19:42:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11112ms or 222 ticks behind
+[19:42:57] [Server thread/INFO]: <HeRanToKim> Helllloo!!!
+[19:43:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/6294, l='ISServer', x=-176.62, y=91.00, z=-416.52]
+[19:43:11] [Server thread/INFO]: <HeRanToKim> I'm in the skull I think
+[19:43:15] [Server thread/INFO]: <plumdoodle> were did you spawn?
+[19:43:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6445ms or 128 ticks behind
+[19:43:23] [Server thread/INFO]: <HeRanToKim> By the island
+[19:43:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
+[19:43:39] [Server thread/INFO]: <HeRanToKim> but then I swan across to the big ass skull
+[19:43:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4398ms or 87 ticks behind
+[19:43:54] [Server thread/INFO]: plumdoodle lost connection: Timed out
+[19:43:54] [Server thread/INFO]: plumdoodle left the game
+[19:43:58] [User Authenticator #8/INFO]: UUID of player plumdoodle is dd283967-eb23-4e39-ba71-8a8d41f04bda
+[19:43:58] [Server thread/INFO]: plumdoodle[/70.66.155.115:23277] logged in with entity id 6383 at (-153.63675010977204, 63.0, -226.40643883045414)
+[19:43:58] [Server thread/INFO]: plumdoodle joined the game
+[19:44:22] [Server thread/INFO]: <plumdoodle> randomly got disconnected... hopefully this server works. I havent really used it in 9 months
+[19:44:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16150ms or 323 ticks behind
+[19:44:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18484ms or 369 ticks behind
+[19:45:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14160ms or 283 ticks behind
+[19:45:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11846ms or 236 ticks behind
+[19:46:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7976ms or 159 ticks behind
+[19:46:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3665ms or 73 ticks behind
+[19:46:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3507ms or 70 ticks behind
+[19:47:07] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/7727, l='ISServer', x=-174.43, y=91.00, z=-412.36]
+[19:47:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2997ms or 59 ticks behind
+[19:47:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5747ms or 114 ticks behind
+[19:47:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4221ms or 84 ticks behind
+[19:47:57] [Server thread/INFO]: HeRanToKim has made the advancement [We Need to Go Deeper]
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -7.86190187505278,0.0,6.467455064191881
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -8.153014930919738,0.0,6.467455064191881
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -8.444369782516361,0.0,6.467455064191881
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -8.735947460082429,0.0,6.467455064191881
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -9.027728286856245,0.0,6.467455064191881
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -9.319694550027435,0.0,6.467455064191881
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -9.611827705951868,0.0,6.467455064191881
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -9.904113669328154,0.0,6.467455064191881
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -10.196061462188112,0.0,6.495119895100061
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -10.48677421045349,0.0,6.5486233587890865
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -10.653241870779567,0.0,6.626202421829191
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -10.653241870779567,0.0,6.726166178295102
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -10.653241870779567,0.0,6.846900140710204
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -10.653241870779567,0.0,6.987305728030719
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -10.653241870779567,0.0,7.146654324562633
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -10.653241870779567,0.0,7.324449931547861
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -10.653241870779567,0.0,7.467455064191881
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -10.653241870779567,0.0,7.467455064191881
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -10.653241870779567,0.0,7.467455064191881
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -10.653241870779567,0.0,7.467455064191881
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -10.653241870779567,0.0,7.467455064191881
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -10.653241870779567,0.0,7.467455064191881
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -10.653241870779567,0.0,7.467455064191881
+[19:47:57] [Server thread/WARN]: Boat (vehicle of plumdoodle) moved too quickly! -10.653241870779567,0.0,7.467455064191881
+[19:48:19] [Server thread/INFO]: HeRanToKim has made the advancement [A Terrible Fortress]
+[19:48:29] [Server thread/INFO]: plumdoodle lost connection: Timed out
+[19:48:29] [Server thread/INFO]: plumdoodle left the game
+[19:48:33] [User Authenticator #9/INFO]: UUID of player plumdoodle is dd283967-eb23-4e39-ba71-8a8d41f04bda
+[19:48:34] [Server thread/INFO]: plumdoodle[/70.66.155.115:32090] logged in with entity id 8663 at (-150.74997113551316, 78.0, -221.9090998955893)
+[19:48:34] [Server thread/INFO]: plumdoodle joined the game
+[19:48:53] [Server thread/INFO]: <HeRanToKim> Does it keep disconnecting you?
+[19:49:16] [Server thread/INFO]: <plumdoodle> I have no idea, im in the same room as the server. I should have a really good connection
+[19:49:36] [Server thread/INFO]: <HeRanToKim> Also this place is huGE
+[19:49:49] [Server thread/INFO]: <HeRanToKim> I feel like you played more than a medium amount
+[19:50:01] [Server thread/INFO]: <plumdoodle> Right!? Most of this was my friends
+[19:50:15] [Server thread/INFO]: <plumdoodle> Right after we all graduated college we made this.
+[19:50:25] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[19:50:57] [Server thread/INFO]: <plumdoodle> The whole whole point is the world is way bigger than we could ever explore. So everytime we get back into minecraft we can just go somewhere new
+[19:51:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[19:51:42] [Server thread/INFO]: HeRanToKim fell from a high place
+[19:52:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7810ms or 156 ticks behind
+[19:52:03] [Server thread/INFO]: <plumdoodle> lol, if you want a bed we should have some extra stuff
+[19:52:08] [Server thread/INFO]: <HeRanToKim> That's a very good way to do minecraft tbh
+[19:52:25] [Server thread/INFO]: <HeRanToKim> That would eb very cool yes
+[19:52:34] [Server thread/INFO]: plumdoodle lost connection: Timed out
+[19:52:34] [Server thread/INFO]: plumdoodle left the game
+[19:52:37] [User Authenticator #10/INFO]: UUID of player plumdoodle is dd283967-eb23-4e39-ba71-8a8d41f04bda
+[19:52:37] [Server thread/INFO]: plumdoodle[/70.66.155.115:12889] logged in with entity id 10598 at (-140.13439465678042, 63.08676523286813, -230.48280998146797)
+[19:52:37] [Server thread/INFO]: plumdoodle joined the game
+[19:53:06] [Server thread/INFO]: <plumdoodle> anyway
+[19:53:09] [Server thread/INFO]: <plumdoodle> this is our island
+[19:53:18] [Server thread/INFO]: <HeRanToKim> very nice
+[19:53:37] [Server thread/INFO]: <plumdoodle> somewhere downstairs there should be a bunch of chests
+[19:53:49] [Server thread/INFO]: <HeRanToKim> there is a bunch of chests everywhere
+[19:54:01] [Server thread/INFO]: <plumdoodle> ahhh yes but a specific set of chests
+[19:54:13] [Server thread/INFO]: <plumdoodle> i think you went to far
+[19:54:38] [Server thread/INFO]: <plumdoodle> this way
+[19:54:52] [Server thread/INFO]: <plumdoodle> over here
+[19:54:52] [Server thread/INFO]: plumdoodle lost connection: Timed out
+[19:54:52] [Server thread/INFO]: plumdoodle left the game
+[19:55:02] [Server thread/INFO]: <HeRanToKim> looooooool
+[19:55:23] [User Authenticator #11/INFO]: UUID of player plumdoodle is dd283967-eb23-4e39-ba71-8a8d41f04bda
+[19:55:23] [Server thread/INFO]: plumdoodle[/70.66.155.115:56472] logged in with entity id 11459 at (-162.2895177026387, 59.0, -226.6000310262341)
+[19:55:23] [Server thread/INFO]: plumdoodle joined the game
+[19:55:30] [Server thread/INFO]: <HeRanToKim> welcome back
+[19:55:33] [Server thread/INFO]: <plumdoodle> this is super wierd that i keep disconnecting
+[19:55:43] [Server thread/INFO]: <plumdoodle> anyway, heres the room
+[19:56:08] [Server thread/INFO]: <plumdoodle> Did you want to start new or build on the existing stuff?
+[19:56:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[19:56:38] [Server thread/INFO]: <HeRanToKim> I'm down for whatever!
+[19:56:48] [Server thread/INFO]: <HeRanToKim> all i wanna do is build a lil farm tbh
+[19:57:16] [Server thread/INFO]: <plumdoodle> THEN GRAB SUPPLIES! WE WILL SET SAIL!
+[19:57:24] [Server thread/INFO]: <HeRanToKim> OK
+[19:57:36] [Server thread/INFO]: HeRanToKim has made the advancement [Isn't It Iron Pick]
+[19:57:47] [Server thread/INFO]: <HeRanToKim> Wait am i stilling some dudes stuff
+[19:57:58] [Server thread/INFO]: <HeRanToKim> STEALING*
+[19:58:02] [Server thread/INFO]: <HeRanToKim> omg not all caps
+[19:58:19] [Server thread/INFO]: <plumdoodle> nah frank basically broke the game by creating auto farmers for everything
+[19:58:39] [Server thread/INFO]: <plumdoodle> He has essentially infinite resources. Its kinda what made the game boring
+[19:58:50] [Server thread/INFO]: <HeRanToKim> heck yeah frank
+[19:59:29] [Server thread/INFO]: <plumdoodle> actually if its gonna be night, we should wait until the morning
+[19:59:37] [Server thread/INFO]: <plumdoodle> there should be a bed somewhere
+[20:00:23] [Server thread/INFO]: <HeRanToKim> brb
+[20:00:27] [Server thread/INFO]: HeRanToKim lost connection: Disconnected
+[20:00:27] [Server thread/INFO]: HeRanToKim left the game
+[20:01:54] [Server thread/INFO]: plumdoodle lost connection: Timed out
+[20:01:54] [Server thread/INFO]: plumdoodle left the game
+[20:03:28] [User Authenticator #12/INFO]: UUID of player plumdoodle is dd283967-eb23-4e39-ba71-8a8d41f04bda
+[20:03:28] [Server thread/INFO]: plumdoodle[/70.66.155.115:61707] logged in with entity id 13134 at (-149.92303155261183, 43.02461795988526, -268.804930284047)
+[20:03:28] [Server thread/INFO]: plumdoodle joined the game
+[20:03:30] [User Authenticator #13/INFO]: UUID of player HeRanToKim is 7e573e87-33a7-4a69-8326-e3930be8d610
+[20:03:30] [Server thread/INFO]: HeRanToKim[/104.142.114.6:60610] logged in with entity id 13141 at (-165.0602109000958, 59.0, -229.3124385884145)
+[20:03:30] [Server thread/INFO]: HeRanToKim joined the game
+[20:03:51] [Server thread/INFO]: <plumdoodle> so I cant seem to find any wool for a bed
+[20:04:21] [Server thread/INFO]: <HeRanToKim> guess we're gonna have to wait it out old school
+[20:04:45] [Server thread/INFO]: <plumdoodle> I bet there is a bed in codys house
+[20:04:58] [Server thread/INFO]: <plumdoodle> its that big skull castle
+[20:06:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:06:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3879ms or 77 ticks behind
+[20:06:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10334ms or 206 ticks behind
+[20:07:04] [Server thread/INFO]: <plumdoodle> I havent been in here much so im not 100% sure were the beds are
+[20:07:12] [Server thread/INFO]: <plumdoodle> here we go
+[20:07:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11841ms or 236 ticks behind
+[20:07:33] [Server thread/INFO]: <HeRanToKim> woops
+[20:07:40] [Server thread/INFO]: <plumdoodle> lol its cool, put it whereever
+[20:07:41] [Server thread/INFO]: HeRanToKim has made the advancement [Sweet Dreams]
+[20:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9727ms or 194 ticks behind
+[20:07:47] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/14438, l='ISServer', x=-176.66, y=91.00, z=-409.95]
+[20:07:47] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/14438, l='ISServer', x=-176.66, y=91.00, z=-409.95]
+[20:07:49] [Server thread/INFO]: <HeRanToKim> no i changed my controls
+[20:07:54] [Server thread/INFO]: <HeRanToKim> still not used to them
+[20:08:02] [Server thread/INFO]: <plumdoodle> lol np
+[20:08:05] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/14468, l='ISServer', x=-170.66, y=91.00, z=-415.75]
+[20:08:05] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/14468, l='ISServer', x=-170.66, y=91.00, z=-415.75]
+[20:08:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8996ms or 179 ticks behind
+[20:08:20] [Server thread/INFO]: <plumdoodle> we can find a cool spot for a farm this way
+[20:08:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8368ms or 167 ticks behind
+[20:08:32] [Server thread/INFO]: HeRanToKim has made the advancement [Monster Hunter]
+[20:08:46] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/14549, l='ISServer', x=-175.60, y=91.00, z=-408.72]
+[20:08:46] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/14549, l='ISServer', x=-175.60, y=91.00, z=-408.72]
+[20:08:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3424ms or 68 ticks behind
+[20:09:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4175ms or 83 ticks behind
+[20:09:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:09:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2382ms or 47 ticks behind
+[20:09:51] [Server thread/INFO]: <plumdoodle> did you get a bone from that skeleton
+[20:09:55] [Server thread/INFO]: <HeRanToKim> i did not
+[20:09:59] [Server thread/INFO]: <plumdoodle> nevermind then
+[20:10:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4136ms or 82 ticks behind
+[20:10:06] [Server thread/INFO]: <HeRanToKim> :'(
+[20:10:35] [Server thread/INFO]: <plumdoodle> that way?
+[20:10:50] [Server thread/INFO]: <HeRanToKim> which way?
+[20:10:59] [Server thread/INFO]: plumdoodle lost connection: Timed out
+[20:10:59] [Server thread/INFO]: plumdoodle left the game
+[20:11:02] [User Authenticator #14/INFO]: UUID of player plumdoodle is dd283967-eb23-4e39-ba71-8a8d41f04bda
+[20:11:02] [Server thread/INFO]: plumdoodle[/70.66.155.115:47293] logged in with entity id 15050 at (-188.45341211153888, 63.756381805903146, -607.2043552934518)
+[20:11:02] [Server thread/INFO]: plumdoodle joined the game
+[20:12:11] [Server thread/INFO]: <plumdoodle> this could be a good spot for a farm. I just want to see what that tower is
+[20:12:30] [Server thread/INFO]: <HeRanToKim> nice lil water hole too
+[20:12:52] [Server thread/INFO]: <plumdoodle> this is really cool, i have no idea what it is or who built it
+[20:13:09] [Server thread/INFO]: <plumdoodle> if you want a bed, here you go
+[20:13:16] [Server thread/INFO]: <HeRanToKim> WEEEOOO
+[20:13:24] [Server thread/INFO]: <plumdoodle> wait can i have one
+[20:13:28] [Server thread/INFO]: <HeRanToKim> lol
+[20:13:35] [Server thread/INFO]: <HeRanToKim> one sec
+[20:13:57] [Server thread/INFO]: <plumdoodle> sweet thx
+[20:14:36] [Server thread/INFO]: <plumdoodle> OH MY GOD
+[20:14:51] [Server thread/INFO]: <HeRanToKim> the biome where i died!
+[20:14:52] [Server thread/INFO]: <plumdoodle> ITS A GLASS MOUNTAIN
+[20:15:09] [Server thread/INFO]: <HeRanToKim> the best kind
+[20:15:45] [Server thread/INFO]: <plumdoodle> im going to see if frank is around, I think only he could have done something like this
+[20:16:04] [Server thread/INFO]: <HeRanToKim> there a cute lil giant in here
+[20:16:06] [Server thread/INFO]: <HeRanToKim> friendly
+[20:16:17] [Server thread/INFO]: <HeRanToKim> and.... a librarian?
+[20:16:38] [Server thread/INFO]: <plumdoodle> wow this is amazing
+[20:17:48] [Server thread/INFO]: <HeRanToKim> fuck ahah ahd
+[20:17:56] [Server thread/INFO]: <HeRanToKim> im not used to these controls
+[20:18:06] [Server thread/INFO]: <HeRanToKim> accidently place those dirts
+[20:18:08] [Server thread/INFO]: <plumdoodle> lol what
+[20:18:13] [Server thread/INFO]: plumdoodle lost connection: Disconnected
+[20:18:13] [Server thread/INFO]: plumdoodle left the game
+[20:18:15] [User Authenticator #15/INFO]: UUID of player plumdoodle is dd283967-eb23-4e39-ba71-8a8d41f04bda
+[20:18:15] [Server thread/INFO]: plumdoodle[/70.66.155.115:51192] logged in with entity id 16349 at (-516.0397856140116, 50.0, -514.7548041590558)
+[20:18:15] [Server thread/INFO]: plumdoodle joined the game
+[20:18:32] [Server thread/INFO]: plumdoodle lost connection: Timed out
+[20:18:32] [Server thread/INFO]: plumdoodle left the game
+[20:18:37] [User Authenticator #16/INFO]: UUID of player plumdoodle is dd283967-eb23-4e39-ba71-8a8d41f04bda
+[20:18:37] [Server thread/INFO]: plumdoodle[/70.66.155.115:46837] logged in with entity id 16385 at (-516.0397856140116, 50.0, -514.7548041590558)
+[20:18:37] [Server thread/INFO]: plumdoodle joined the game
+[20:19:09] [Server thread/INFO]: plumdoodle lost connection: Timed out
+[20:19:09] [Server thread/INFO]: plumdoodle left the game
+[20:24:37] [User Authenticator #17/INFO]: UUID of player plumdoodle is dd283967-eb23-4e39-ba71-8a8d41f04bda
+[20:24:37] [Server thread/INFO]: plumdoodle[/70.66.155.115:61445] logged in with entity id 17091 at (-516.0397856140116, 50.0, -514.7548041590558)
+[20:24:37] [Server thread/INFO]: plumdoodle joined the game
+[20:24:43] [Server thread/INFO]: <plumdoodle> hopefully that worked
+[20:24:57] [Server thread/INFO]: <HeRanToKim> wohooo
+[20:25:37] [Server thread/INFO]: <HeRanToKim> time to become good 'ol fashioned farmers
+[20:25:41] [Server thread/INFO]: <plumdoodle> well should we start on the farm or
+[20:26:01] [Server thread/INFO]: <plumdoodle> excellent. This place is too beutiful though, we should build our farm somewhere outside
+[20:26:15] [Server thread/INFO]: <HeRanToKim> how do we get out
+[20:26:22] [Server thread/INFO]: <plumdoodle> ....i was just wondering that
+[20:26:25] [Server thread/INFO]: <HeRanToKim> hahaha
+[20:27:15] [Server thread/INFO]: <plumdoodle> lol this ladder goes to the top of the tree... but theres no way out from here
+[20:27:23] [Server thread/INFO]: <HeRanToKim> there a nether portal
+[20:27:30] [Server thread/INFO]: <HeRanToKim> there's*
+[20:27:32] [Server thread/INFO]: <HeRanToKim> but that's it
+[20:27:39] [Server thread/INFO]: <plumdoodle> time to go to hell then
+[20:27:57] [Server thread/INFO]: <plumdoodle> i hope we dont die
+[20:28:22] [Server thread/INFO]: <plumdoodle> oooh right. Theres a tunnel system to the overworld in here. Just read the signs
+[20:29:11] [Server thread/INFO]: <plumdoodle> haha not this way
+[20:29:38] [Server thread/INFO]: <plumdoodle> heeere
+[20:29:58] [Server thread/INFO]: <plumdoodle> is there a chest in there?
+[20:30:04] [Server thread/INFO]: <HeRanToKim> nah
+[20:30:14] [Server thread/INFO]: <plumdoodle> Or a mine cart
+[20:30:20] [Server thread/INFO]: <HeRanToKim> nohting
+[20:30:22] [Server thread/INFO]: <plumdoodle> That portal takes us to the beggining.
+[20:30:24] [Server thread/INFO]: <HeRanToKim> nothing*
+[20:30:40] [Server thread/INFO]: <plumdoodle> but theres a village we could build the farm outside of
+[20:30:47] [Server thread/INFO]: <HeRanToKim> love me a good village
+[20:31:18] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:18] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:18] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:18] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[20:31:19] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
+[20:31:19] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
+[20:31:19] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
+[20:31:19] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
+[20:31:19] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[20:31:19] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
+[20:31:19] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
+[20:31:19] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
+[20:31:19] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[20:31:19] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
+[20:31:19] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[20:31:19] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
+[20:31:19] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
+[20:31:19] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
+[20:31:19] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
+[20:31:19] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:19] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:31:45] [Server thread/INFO]: <HeRanToKim> WHAT
+[20:31:52] [Server thread/INFO]: <HeRanToKim> IS THAT AN ALPACA
+[20:32:05] [Server thread/INFO]: <HeRanToKim> oh my g od
+[20:32:08] [Server thread/INFO]: <plumdoodle> oh what! I didnt know you could ride them
+[20:32:22] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/18614, l='ISServer', x=-410.91, y=76.00, z=-1060.18]
+[20:32:22] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/18614, l='ISServer', x=-410.91, y=76.00, z=-1060.18]
+[20:32:23] [Server thread/INFO]: <plumdoodle> anyway, so this is our village
+[20:32:35] [Server thread/INFO]: <plumdoodle> theres tons of seeds you could use to start your farm
+[20:32:38] [Server thread/INFO]: <HeRanToKim> so qaint
+[20:32:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[20:33:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4870ms or 97 ticks behind
+[20:33:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[20:33:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[20:34:07] [Server thread/INFO]: <HeRanToKim> this is wild
+[20:34:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3016ms or 60 ticks behind
+[20:34:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3349ms or 66 ticks behind
+[20:34:28] [Server thread/INFO]: <plumdoodle> Yea this is the last big project I was involved in.
+[20:34:49] [Server thread/INFO]: <plumdoodle> But cody and frank ended up playing this for months after I stopped
+[20:34:59] [Server thread/INFO]: <plumdoodle> Also I think frank is gonna hop on soon
+[20:35:34] [Server thread/INFO]: <HeRanToKim> o! i am gonna leave now so I think i'm gonna miss him
+[20:35:38] [Server thread/INFO]: <HeRanToKim> is he on often?
+[20:35:44] [Server thread/INFO]: <plumdoodle> not anymore I dont think
+[20:35:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[20:36:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4313ms or 86 ticks behind
+[20:36:27] [Server thread/INFO]: <HeRanToKim> well tell him i say hi!!!
+[20:36:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9086ms or 181 ticks behind
+[20:36:45] [Server thread/INFO]: <HeRanToKim> also that his biome is sweet
+[20:36:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8010ms or 160 ticks behind
+[20:36:58] [Server thread/INFO]: <plumdoodle> sweet, thanks for playing
+[20:36:59] [Server thread/INFO]: <HeRanToKim> I'll talk to you later though!
+[20:37:01] [User Authenticator #18/INFO]: UUID of player J0hnL0ck3 is 946daeff-e8e0-4bcb-8f05-dc9ca89ddea7
+[20:37:01] [Server thread/INFO]: J0hnL0ck3[/70.66.69.113:37868] logged in with entity id 19356 at (-178.15365311559003, 39.0, -7827.102925387368)
+[20:37:01] [Server thread/INFO]: J0hnL0ck3 joined the game
+[20:37:11] [Server thread/INFO]: HeRanToKim lost connection: Disconnected
+[20:37:11] [Server thread/INFO]: HeRanToKim left the game
+[20:37:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10129ms or 202 ticks behind
+[20:37:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[20:37:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2550ms or 51 ticks behind
+[20:38:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3308ms or 66 ticks behind
+[20:38:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20:38:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2728ms or 54 ticks behind
+[20:39:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[20:39:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20:42:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[20:44:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[20:44:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7001ms or 140 ticks behind
+[20:44:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3232ms or 64 ticks behind
+[20:46:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20:46:42] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[20:46:42] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[20:46:42] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[20:46:42] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[20:46:42] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[20:46:42] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[20:46:42] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[20:46:42] [Server thread/WARN]: Error while deserializing minecraft:savanna_tree
+[20:46:42] [Server thread/WARN]: Error while deserializing minecraft:savanna_tree
+[20:46:42] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:46:42] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[20:47:03] [Server thread/WARN]: Error while deserializing minecraft:savanna_tree
+[20:47:03] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[20:47:03] [Server thread/WARN]: Error while deserializing minecraft:melon_pile
+[20:47:03] [Server thread/WARN]: Error while deserializing minecraft:savanna_tree
+[20:47:03] [Server thread/WARN]: Error while deserializing minecraft:melon_pile
+[20:47:03] [Server thread/WARN]: Error while deserializing minecraft:savanna_tree
+[20:47:03] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
+[20:48:25] [Server thread/WARN]: plumdoodle moved too quickly! -0.38361897446770854,-5.296204001585181,-16.947269553501883
+[20:48:57] [Server thread/WARN]: Error while deserializing minecraft:savanna_tree
+[20:48:57] [Server thread/WARN]: Error while deserializing minecraft:melon_pile
+[20:48:57] [Server thread/WARN]: Error while deserializing minecraft:savanna_tree
+[20:48:57] [Server thread/WARN]: Error while deserializing minecraft:melon_pile
+[20:49:08] [Server thread/WARN]: plumdoodle moved too quickly! -0.40959190524830547,9.171160298525649,-15.126750295356032
+[20:49:08] [Server thread/WARN]: J0hnL0ck3 moved too quickly! -0.12030369027658594,-1.0040557239260721,17.52138685261616
+[20:56:10] [Server thread/WARN]: J0hnL0ck3 moved too quickly! 259.3947826438616,7.233632006042477,7827.191278517537
+[20:56:11] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[20:56:11] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[20:56:12] [Server thread/WARN]: plumdoodle moved too quickly! 259.57606213028976,7.233632006042477,7826.825897087873
+[20:59:10] [Server thread/INFO]: plumdoodle lost connection: Disconnected
+[20:59:10] [Server thread/INFO]: plumdoodle left the game
+[20:59:25] [Server thread/INFO]: J0hnL0ck3 lost connection: Disconnected
+[20:59:25] [Server thread/INFO]: J0hnL0ck3 left the game
+[21:12:00] [User Authenticator #19/INFO]: UUID of player J0hnL0ck3 is 946daeff-e8e0-4bcb-8f05-dc9ca89ddea7
+[21:12:01] [Server thread/INFO]: J0hnL0ck3[/70.66.69.113:39322] logged in with entity id 35509 at (-171.4955146757188, 39.0, -7833.474868807295)
+[21:12:01] [Server thread/INFO]: J0hnL0ck3 joined the game
+[22:22:39] [Server thread/INFO]: J0hnL0ck3 lost connection: Disconnected
+[22:22:39] [Server thread/INFO]: J0hnL0ck3 left the game
