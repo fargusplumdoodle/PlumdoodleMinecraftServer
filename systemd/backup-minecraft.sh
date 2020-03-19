@@ -1,7 +1,15 @@
 #!/bin/bash
-echo help me
+export HOME=/root/
+whoami
+whoami
+whoami
+whoami
+whoami
 
 # this is for backing up a git repository on a daily basis
+git config --global user.email "fargusplumdoodle@gmail.com"
+git config --global user.name "mcbot"
+
 
 GIT_DIR=/PlumdoodleMinecraftServer
 NAME=PlumdoodleMCServer
