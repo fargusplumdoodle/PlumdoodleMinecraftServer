@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2020-03-23 22:17:56 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-03-22 17:17:38 -0700"
@@ -86,6 +92,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-03-22 17:17:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2020-03-23 22:17:56 -0700"
     },
     "done": true
   },
@@ -242,6 +254,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2020-03-22 22:21:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2020-03-23 23:13:48 -0700"
     },
     "done": true
   },
@@ -634,6 +652,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2020-03-23 23:01:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-03-23 22:38:57 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2020-03-21 20:57:29 -0700"
@@ -678,6 +708,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2020-03-23 22:55:02 -0700",
+      "minecraft:cow": "2020-03-23 22:45:43 -0700",
       "minecraft:chicken": "2020-03-22 01:29:42 -0700"
     },
     "done": false
@@ -922,6 +954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2020-03-23 21:40:52 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2020-03-21 21:33:59 -0700"
@@ -974,7 +1012,10 @@
     "criteria": {
       "minecraft:pillager": "2020-03-22 17:02:27 -0700",
       "minecraft:skeleton": "2020-03-21 22:47:47 -0700",
+      "minecraft:zombie_pigman": "2020-03-23 19:06:43 -0700",
       "minecraft:spider": "2020-03-21 22:25:13 -0700",
+      "minecraft:creeper": "2020-03-23 22:38:56 -0700",
+      "minecraft:husk": "2020-03-23 18:48:20 -0700",
       "minecraft:zombie": "2020-03-22 16:30:34 -0700",
       "minecraft:drowned": "2020-03-22 19:38:36 -0700"
     },
@@ -1067,6 +1108,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2020-03-22 21:37:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2020-03-23 23:01:56 -0700"
     },
     "done": true
   },
@@ -1241,6 +1288,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2020-03-22 22:21:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2020-03-23 19:14:01 -0700"
     },
     "done": true
   },
@@ -1466,6 +1519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2020-03-23 18:41:38 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2020-03-22 17:17:38 -0700"
@@ -1565,6 +1624,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2020-03-21 23:00:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2020-03-23 22:17:56 -0700"
     },
     "done": true
   },
@@ -1978,6 +2043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2020-03-23 22:17:56 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-22 00:06:36 -0700"
@@ -2080,6 +2151,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/white.png": "2020-03-23 22:17:11 -0700"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2020-03-21 22:56:31 -0700"
@@ -2122,6 +2199,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2020-03-23 19:18:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2020-03-23 18:41:38 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2020-03-21 23:00:38 -0700"
@@ -2149,6 +2238,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2020-03-21 21:43:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2020-03-23 23:01:56 -0700"
     },
     "done": true
   },
@@ -2198,6 +2293,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2020-03-22 21:37:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2020-03-23 19:18:08 -0700"
     },
     "done": true
   },
